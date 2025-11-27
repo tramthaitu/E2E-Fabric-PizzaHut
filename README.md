@@ -128,6 +128,12 @@ The reporting layer leverages the **Semantic Model** with **Direct Lake** mode. 
   <em>Figure: Data flow from Warehouse to Power BI Report.</em>
 </p>
 
+<p align="center">
+  <img src="images/Data%20model.jpg" width="100%">
+  <br>
+  <em>Figure: Semantic Model relationship diagram in Power BI.</em>
+</p>
+
 ---
 
 ## 🔔 Automation & Monitoring
@@ -155,4 +161,4 @@ The team receives detailed updates, including which tables were loaded successfu
 ---
 
 ## 👤 Author
-Project developed by **tutram**.
+Project developed by **[Your Name]**.
